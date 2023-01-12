@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+}
+div button {
+    margin-left: 5px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid goldenrod;
+    font-size: 17px;
+}
+div input{
+    margin-left: 2px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid goldenrod;
+    font-size: 18px;
+}
